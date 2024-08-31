@@ -1,1 +1,31 @@
-body {background-color: #E5E5E5; font-family: "Roboto";}
+body {color: #2E2F42; background-color: #ffffff; font-family: "Roboto", sans-serif;}
+
+.logo-title1 {color: #4D5AE5; 
+    font-weight: 700; 
+    font-size: 18px; 
+    font-family: "Raleway", sans-serif; 
+    line-height: 21px; 
+    letter-spacing: 3%; 
+    text-decoration: none;
+    text-transform: uppercase;}
+.logo-title2 {color: #2E2F42; 
+    font-weight: 700; 
+    font-size: 18px; 
+    font-family: "Raleway", sans-serif; 
+    line-height: 21px; 
+    letter-spacing: 3%; 
+    text-decoration: none;
+    text-transform: uppercase;}
+nav {color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;}
+ul {list-style-type: none;}
+.address .link {color:#2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;}
