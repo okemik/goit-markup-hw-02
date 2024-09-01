@@ -29,3 +29,11 @@ ul {list-style-type: none;}
     line-height: 24px;
     letter-spacing: 2%;
     text-decoration: none;}
+h1 {color:#ffffff; 
+    background-color: #2E2F42; 
+    font-size: 56px; 
+    font-weight: 700; 
+    ,letter-spacing: 2%; 
+    line-height: 150px; 
+    inline-size: 70%;
+    text-align: center;}
