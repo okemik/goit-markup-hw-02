@@ -8,6 +8,7 @@ body {color: #2E2F42; background-color: #ffffff; font-family: "Roboto", sans-ser
     letter-spacing: 3%; 
     text-decoration: none;
     text-transform: uppercase;}
+
 .logo-title2 {color: #2E2F42; 
     font-weight: 700; 
     font-size: 18px; 
@@ -16,24 +17,40 @@ body {color: #2E2F42; background-color: #ffffff; font-family: "Roboto", sans-ser
     letter-spacing: 3%; 
     text-decoration: none;
     text-transform: uppercase;}
+
 nav {color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
     text-decoration: none;}
+
+.Studio:hover, .Studio:active {color: #404BBF;}
+.Portfolio:hover {color:#404BBF}
+.Contacts:hover {color:#404BBF}
+
 ul {list-style-type: none;}
+
 .address .link {color:#2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
     text-decoration: none;}
+.address .link:hover {color: #404BBF;}
+
 h1 {color:#ffffff; 
     background-color: #2E2F42; 
     font-size: 56px; 
     font-weight: 700; 
-    ,letter-spacing: 2%; 
+    letter-spacing: 2%; 
     line-height: 150px; 
     inline-size: 70%;
     text-align: center;}
+
+.button {color: #ffffff; background-color: #4D5AE5; width: 169px; height: 56px; border-color: transparent; cursor: pointer;}
+.button:hover {background-color:#404BBF}
+
+h2 {font-size: 36px; font-weight: 700; letter-spacing: 2%;}
+h3 {font-size: 20px; font-weight: 500; letter-spacing: 2%;,}
+p {color: 16px; font-weight: 400; letter-spacing: 2%; line-height: 24px;}
