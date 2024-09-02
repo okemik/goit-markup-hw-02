@@ -3,7 +3,7 @@ body {
     background-color: #ffffff; 
     font-family: "Roboto", sans-serif;}
 
-    .logo-title1, .logo-title3 {
+    .logo-title1 {
         color: #4D5AE5; 
         font-weight: 700; 
         font-size: 18px; 
@@ -12,7 +12,17 @@ body {
         text-decoration: none;
         text-transform: uppercase;
     }
-    
+
+    .logo-title3 {
+        color: #4D5AE5; 
+        background-color: #2E2F42;
+        font-weight: 700; 
+        font-size: 18px; 
+        font-family: "Raleway", sans-serif; 
+        line-height: 1.2; 
+        text-decoration: none;
+        text-transform: uppercase;
+    }
     .logo-title2, .logo-title4 {
         color: inherit;
         font-weight: 700;
@@ -25,7 +35,8 @@ body {
     
     .logo-title4 {
         color: #F4F4FD;
-    } 
+        background-color: #2E2F42;
+        } 
 
     .nav {color:inherit;
     font-weight: 500;
